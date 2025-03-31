@@ -1,13 +1,14 @@
-## 📎 What I've learnt to use so far
-![Static Badge](https://img.shields.io/badge/GitHub-grey)
-![Static Badge](https://img.shields.io/badge/PHP-lightblue)
+## 🛠️ What I have learnt to use so far
 ![Static Badge](https://img.shields.io/badge/HTML-red)
-![Static Badge](https://img.shields.io/badge/CSS-blue)
+![Static Badge](https://img.shields.io/badge/CSS-yellow)
+![Static Badge](https://img.shields.io/badge/Javascript-orange)
 ![Static Badge](https://img.shields.io/badge/Figma-pink)
-![Static Badge](https://img.shields.io/badge/Docker-blue)
-![Static Badge](https://img.shields.io/badge/C%23-purple)
-![Static Badge](https://img.shields.io/badge/MYSQL-lightblue)
-![Static Badge](https://img.shields.io/badge/SASS-pink)
+![Static Badge](https://img.shields.io/badge/React-blue)
+![Static Badge](https://img.shields.io/badge/Vite-light-blue)
+![Static Badge](https://img.shields.io/badge/Next.js-dark-blue)
+![Static Badge](https://img.shields.io/badge/MYSQL-brown)
+![Static Badge](https://img.shields.io/badge/docker-blue)
+![Static Badge](https://img.shields.io/badge/GitHub-grey)
 
 
 
