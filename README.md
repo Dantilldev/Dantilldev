@@ -1,4 +1,4 @@
-## 🛠️ What I have learnt to use so far
+## 📚 What I have learnt to use so far
 ![Static Badge](https://img.shields.io/badge/HTML-red)
 ![Static Badge](https://img.shields.io/badge/CSS-blue)
 ![Static Badge](https://img.shields.io/badge/TailwindCSS-teal)
