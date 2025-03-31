@@ -10,11 +10,11 @@
 ![Static Badge](https://img.shields.io/badge/Next.js-black)
 ![Static Badge](https://img.shields.io/badge/GitHub-grey)
 ## 🛠️ Currently Learning
-![Static Badge](https://img.shields.io/badge/Node.js-dark-blue)
-![Static Badge](https://img.shields.io/badge/express-dark-blue)
-![Static Badge](https://img.shields.io/badge/MYSQL-brown)
-![Static Badge](https://img.shields.io/badge/docker-blue)
-![Static Badge](https://img.shields.io/badge/GitLab-grey)
+![Static Badge](https://img.shields.io/badge/Node.js-green)
+![Static Badge](https://img.shields.io/badge/express-brown)
+![Static Badge](https://img.shields.io/badge/MYSQL-blue)
+![Static Badge](https://img.shields.io/badge/docker-purple)
+![Static Badge](https://img.shields.io/badge/GitLab-orange)
 
 
 
