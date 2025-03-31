@@ -5,9 +5,9 @@
 ![Static Badge](https://img.shields.io/badge/Javascript-orange)
 ![Static Badge](https://img.shields.io/badge/Figma-pink)
 ![Static Badge](https://img.shields.io/badge/WCAG-green)
-![Static Badge](https://img.shields.io/badge/React-light-blue)
-![Static Badge](https://img.shields.io/badge/Vite-light)
-![Static Badge](https://img.shields.io/badge/Next.js-dark)
+![Static Badge](https://img.shields.io/badge/React-blue)
+![Static Badge](https://img.shields.io/badge/Vite-white)
+![Static Badge](https://img.shields.io/badge/Next.js-black)
 ![Static Badge](https://img.shields.io/badge/GitHub-grey)
 ## 🛠️ Currently Learning
 ![Static Badge](https://img.shields.io/badge/Node.js-dark-blue)
