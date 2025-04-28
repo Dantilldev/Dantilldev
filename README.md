@@ -13,7 +13,7 @@ I am a frontend developer currently studying at Chas Academy in Stockholm, gaini
 ![Static Badge](https://img.shields.io/badge/Next.js-black)
 ![Static Badge](https://img.shields.io/badge/GitHub-grey)
 
-## 🛠️ Currently Learning
+### 🛠️ Currently Learning
 ![Static Badge](https://img.shields.io/badge/Node.js-green)
 ![Static Badge](https://img.shields.io/badge/express-brown)
 ![Static Badge](https://img.shields.io/badge/MYSQL-blue)
