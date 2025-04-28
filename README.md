@@ -21,7 +21,7 @@ I am a frontend developer currently studying at Chas Academy in Stockholm, gaini
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Dantilldev&show_icons=true&theme=catppuccin_latte)
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=DITT-ANVÄNDARNAMN&theme=catppuccin_latte)
+![GitHub Streak](https://streak-stats.demolab.com/?user=Dantilldev&theme=catppuccin_latte)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Dantilldev&layout=compact&theme=catppuccin_latte)
 <!--
