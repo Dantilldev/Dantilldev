@@ -1,17 +1,6 @@
 # Hi there, I am Daniel👋🏼
 I am a frontend developer currently studying at Chas Academy in Stockholm, gaining practical experience in web development.
-<!--
-## 📚 What I have learnt to use so far
-![Static Badge](https://img.shields.io/badge/HTML-red)
-![Static Badge](https://img.shields.io/badge/CSS-blue)
-![Static Badge](https://img.shields.io/badge/TailwindCSS-teal)
-![Static Badge](https://img.shields.io/badge/Javascript-orange)
-![Static Badge](https://img.shields.io/badge/Figma-pink)
-![Static Badge](https://img.shields.io/badge/WCAG-green)
-![Static Badge](https://img.shields.io/badge/React-blue)
-![Static Badge](https://img.shields.io/badge/Vite-white)
-![Static Badge](https://img.shields.io/badge/Next.js-black)
-![Static Badge](https://img.shields.io/badge/GitHub-grey) -->
+
 
 ## 📚 What I have learnt to use so far
 
