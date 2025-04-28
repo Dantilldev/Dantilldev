@@ -19,11 +19,11 @@ I am a frontend developer currently studying at Chas Academy in Stockholm, gaini
 ![Static Badge](https://img.shields.io/badge/docker-purple)
 ![Static Badge](https://img.shields.io/badge/GitLab-orange)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Dantilldev&show_icons=true&theme=moltack)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Dantilldev&show_icons=true&theme=shadow_red)
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=Dantilldev&theme=moltack)
+![GitHub Streak](https://streak-stats.demolab.com/?user=Dantilldev&theme=shadow_red)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Dantilldev&layout=compact&theme=moltack)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Dantilldev&layout=compact&theme=shadow_red)
 <!--
 - 👋 Hi, I’m @Dantilldev
 - 👀 I’m interested in ...
