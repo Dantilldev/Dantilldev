@@ -2,7 +2,7 @@
 I am a frontend developer currently studying at Chas Academy in Stockholm, gaining practical experience in web development.
 
 
-## 📚 What I have learnt to use so far
+
 
 
 ## 📚 What I have learnt to use so far
