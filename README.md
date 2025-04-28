@@ -1,6 +1,6 @@
 # Hi there, I am Daniel👋🏼
 I am a frontend developer currently studying at Chas Academy in Stockholm, gaining practical experience in web development.
-
+<!--
 ## 📚 What I have learnt to use so far
 ![Static Badge](https://img.shields.io/badge/HTML-red)
 ![Static Badge](https://img.shields.io/badge/CSS-blue)
@@ -11,7 +11,24 @@ I am a frontend developer currently studying at Chas Academy in Stockholm, gaini
 ![Static Badge](https://img.shields.io/badge/React-blue)
 ![Static Badge](https://img.shields.io/badge/Vite-white)
 ![Static Badge](https://img.shields.io/badge/Next.js-black)
-![Static Badge](https://img.shields.io/badge/GitHub-grey)
+![Static Badge](https://img.shields.io/badge/GitHub-grey) -->
+
+## 📚 What I have learnt to use so far
+
+**Frontend:**
+![HTML](https://img.shields.io/badge/HTML-red)
+![CSS](https://img.shields.io/badge/CSS-blue)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-teal)
+![Javascript](https://img.shields.io/badge/Javascript-orange)
+![React](https://img.shields.io/badge/React-blue)
+![Next.js](https://img.shields.io/badge/Next.js-black)
+![Vite](https://img.shields.io/badge/Vite-white)
+
+**Tools & Design:**
+![Figma](https://img.shields.io/badge/Figma-pink)
+![WCAG](https://img.shields.io/badge/WCAG-green)
+![GitHub](https://img.shields.io/badge/GitHub-grey)
+
 ## 🛠️ Currently Learning
 ![Static Badge](https://img.shields.io/badge/Node.js-green)
 ![Static Badge](https://img.shields.io/badge/express-brown)
