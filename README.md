@@ -11,15 +11,9 @@ I am a frontend developer currently studying at Chas Academy in Stockholm, gaini
 ![Static Badge](https://img.shields.io/badge/React-blue)
 ![Static Badge](https://img.shields.io/badge/Vite-white)
 ![Static Badge](https://img.shields.io/badge/Next.js-black)
-![Static Badge](https://img.shields.io/badge/Typescript-black)
+![Static Badge](https://img.shields.io/badge/Typescript-yellow)
+![Static Badge](https://img.shields.io/badge/React-Native-blue)
 ![Static Badge](https://img.shields.io/badge/GitHub-grey)
-
-### 🛠️ Currently Learning
-![Static Badge](https://img.shields.io/badge/Node.js-green)
-![Static Badge](https://img.shields.io/badge/express-brown)
-![Static Badge](https://img.shields.io/badge/MYSQL-blue)
-![Static Badge](https://img.shields.io/badge/docker-purple)
-![Static Badge](https://img.shields.io/badge/GitLab-orange)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Dantilldev&show_icons=true&theme=shadow_blue)
 
